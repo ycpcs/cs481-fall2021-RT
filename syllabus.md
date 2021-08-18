@@ -29,7 +29,7 @@ title: Syllabus
 >[Donald J. Hake II](https://www.ycp.edu/academics/kinsley-school-of-engineering-sciences-and-technology/faculty/hake-ii-donald-j.php)<br>
 **Email:** <djhake2@ycp.edu><br>
 **Office:** KEC 137<br>
-**Phone:** (717) 815-6587 (this is definitely NOT a reliable way to reach me, I might convinced to provide my cell #, upon request)<br>
+**Phone:** (717) 815-6587 (this is definitely NOT a reliable way to reach me, I might be convinced to provide my cell #, upon request)<br>
 **Office Hours:** W-F: 2:00p to 3:00p, and by appointment (and usually after class on W-F)
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
