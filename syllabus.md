@@ -75,9 +75,11 @@ Your team's grade will be determined as a weighted average of the grades on the 
 -   Assignment 6 - 50% Working System - **10%**
 -   Assignment 7 - Final Working System (10%), Presentation (10%), Technical Report (10%) - **30%**
 
+
+
 NOTE: You will be presenting your work for each of these assignments in class on the Wednesdays they are due.  On the days that you do not have an assignment or milestone due, you will be presenting progress reports, as part of assignment 2.  Your weekly journal entries are **due EVERY Wednesday by 3:00p, immediately prior to EVERY class period, regardless of what else is due that day.**
 
-Grades will be assigned on a 100-point scale according to the following table:
+Individual course grades will be assigned on a 100-point scale according to the following table, and will be determined determined from your weekly progress journal entires and reports, combined with your team's grade, multiplied by an effort factor determined from the results of your mid-term and final peer evaluations:
 
 | Range             |  Grade   |
 |:-----------------:|:--------:|
