@@ -16,11 +16,11 @@ title: Syllabus
 
 **Meeting Times:**
 
- - **Wednesdays (3:00p-4:15p):** This class session is reserved for weekly status updates, assignment presentations, and Milestone presentations.  We will meet in KEC 118 for all weekly status updates, assignment presentations, and milestone - unless otherwise noted.  Your YCAS clients will likely be in attendance at these meetings, as well.  NOTE: It is not unusual for the these in-class sessions to run well past 4:15 at times, especially during the status reports and milestone presentations.  If you have another class scheduled immediately following this class, please let me know, and I will try to make accomodations. For Milestone presentations, you might need to make accommodations with your other professors.<br>
+ - **Wednesdays (3:00p-4:15p):** This class session is reserved for weekly status updates, assignment presentations, and Milestone presentations.  We will most likely meet in KEC 118 for all weekly status updates, assignment presentations, and milestone - unless otherwise noted.  Your YCAS clients will likely be in attendance at these meetings, as well.  NOTE: It is not unusual for these in-class sessions to run well past 4:15 at times, especially during the status reports and milestone presentations.  If you have another class scheduled immediately following this class, please let me know, and I will try to make accomodations. For Milestone presentations, you might need to make accommodations with your other professors.<br>
  
- - **Fridays (3:00p-4:15p):** This class session is reserved for you to work as a team, unencumbered by "interference" from the faculty.  Your YCAS clients will frequently be available to work with you during this time, and can meet in-person with you, upon request.  However, there could be another CS481 team meeting in KEC 118 during this time, giving their status reports, assignment presentations, and milestones.  I will do my best to manage this issue, by scheduling that team for KEC 119 or KEC 123 for Fridays - but I can't gurantee that, yet.  Also, much of your work this semester will be conducted in the Project Workspace, testing the Radio Telescope, so you should also plan on meeting in the Project Workspace. 
+ - **Fridays (3:00p-4:15p):** This class session is reserved for you to work as a team, unencumbered by "interference" from the faculty.  Your YCAS clients will frequently be available to work with you during this time, and can meet in-person with you, upon request.  I expect that the Privileged Walk team could be meeting in KEC 123 in-person via Zoom during this time, giving their status reports, assignment presentations, and milestones.  I will do my best to manage this issue, by reserving KEC 123  for that team for their presentations - but I can't guarantee that, yet.  Also, much of your work this semester will be conducted in the Project Workspace, testing the Radio Telescope, so you should also plan on meeting in the Project Workspace. 
   
-**Location:** KEC 118 (the back 2 benches are reserved for the Radio Telescope project - although we might also conduct portions of the status meetings and presentations in the Project Workspace, where the Radio Telescope hardware is located.
+**Location:** KEC 118 and/or KEC 123 (the back 2 benches are reserved for the Radio Telescope project, the front 2 benches will be reserved for the Privileged Walk team.  We will ikely also conduct portions of the status meetings and presentations in the Project Workspace, where the Radio Telescope hardware is located.
  
 **Webpage:**  [https://ycpcs.github.io/cs481-fall2021-RT/](https://ycpcs.github.io/cs481-fall2021-RT/)
 
@@ -77,9 +77,9 @@ Your team's grade will be determined as a weighted average of the grades on the 
 
 
 
-NOTE: You will be presenting your work for each of these assignments in class on the Wednesdays they are due.  On the days that you do not have an assignment or milestone due, you will be presenting progress reports, as part of assignment 2.  Your weekly journal entries are **due EVERY Wednesday by 3:00p, immediately prior to EVERY class period, regardless of what else is due that day.**
+NOTE: You will be presenting your work for each of these assignments in class on the Wednesdays they are due.  On the Wednesdays that you do not have an assignment or milestone due, you will be presenting progress reports, as part of assignment 2.  Your weekly journal entries are **due EVERY Wednesday by 3:00p, immediately prior to EVERY Wednesday class period, regardless of what else is due that day.**
 
-Individual course grades will be assigned on a 100-point scale according to the following table, and will be determined determined from your weekly progress journal entires and reports, combined with your team's grade, multiplied by an effort factor determined from the results of your mid-term and final peer evaluations:
+Individual course grades will be assigned on a 100-point scale according to the following table, and will be determined from your weekly progress journal entries and reports, combined with your team's grade, **multiplied by your individual effort factor determined from the results of your mid-term and final peer evaluations**:
 
 | Range             |  Grade   |
 |:-----------------:|:--------:|

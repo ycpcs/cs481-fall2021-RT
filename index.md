@@ -52,3 +52,8 @@ NOTE: The primary focus of the coming year's effort is to finish SW development,
 * I think we should continue to concentrate on bringing the website "in-house" to the Control Room server, with limited access to start for members only, to limit web traffic through the park's network.  This was started last year - there might not be much more work to do.
 
 * The team needs to button-up the entire project this year, between Fall and Spring.  With 4 students returning to the project, we're in good shape for continuity's sake.  Spin-up last year in CS481 went well, but it still took a great deal of time to get everyone up-to-speed.  I expect this year to go even more quickly.
+
+## News
+* 8-21-21: All students in CS 481 will be meeting on the first day of class (Weds, 8-25-21) to go over the syllabus and requirements for the course.  The Radio Telescope will have a longer meeting, since it is your regular meeting day.
+
+* 8-21-21: The Radio Telescope team will meet on a weekly basis for status report, and assignment and Milestone presentations on Wednesdays in-person in KEC 118.  Fridays will be reserved for team project work days to be arranged amongst yourselves.

@@ -2,11 +2,11 @@
 CS481 Fall 2021 Course Website for YCAS Radio Telescope Project
 ---
 layout: default
-course_number: CS481-102-RT
+course_number: CS481-RT
 title: README
 ---
 
-This is the website for CS481-102-RT, Fall 2020 at York College of
+This is the website for CS481-RT, Fall 2021 at York College of
 Pennsylvania for the YCAS Radio Telescope Project.
 
 Unless indicated otherwise, all materials are
