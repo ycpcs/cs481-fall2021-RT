@@ -1,6 +1,6 @@
 ---
 layout: default
-course_number: CS481-102-RT
+course_number: CS481-RT
 title: Analysis and Design
 ---
 
