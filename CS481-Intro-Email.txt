@@ -1,0 +1,46 @@
+Greetings, and welcome back to campus for the Fall.  I wanted to provide you with some information regarding CS481:
+
+1) Our first class meeting (FOR ALL STUDENTS FROM ALL TEAMS) will in KEC 118 this Weds (8-25-21) at 3:00 to go over the course Syllabus, the projects, and my expectations for the semester.
+
+2) The course will be devoted to developing two client-based team projects this Fall:
+
+   A) The Privileged Walk (PW) project (a first year project), which is a client-based application being developed for two YCP Psychology ptogram faculty members: Dr. Perri Druen and Dr. Randi Shedlosky.
+   
+   The Privileged Walk CS481 course website URL is given below.  You'll find the course syllabus and PW project schedule there.  Please review the entire contents of the your project's website before the first class on Weds, 8-25-21:
+     <ycpcs.github.io/cs481-fall2021-PW>
+   
+   B) The YCAS Radio Telescope (RT) project (4th year), which will be in its last year of major development, and will be working with their YCAS clients: Kerry Smith and Todd Ullery.
+   
+   The Radio Telescope CS481 course website URL is given below.  You'll find the course syllabus and RT project schedule there.  Please review the entire contents of the your project's website before the first class on Weds, 8-25-21:
+     <ycpcs.github.io/cs481-fall2021-RT>
+   
+
+3) The Privileged Walk team will be starting their project from scratch, interacting with their clients (Drs. Druen and Shedlosky) to define the scope, requirements, and development priorities for the project.  The project will most likely run 2 semesters, carrying over into CS482 in the Spring of 2022.  The Privileged Walk team members are:
+
+   Alexander Baldwin, abaldwin3@ycp.edu
+   William Batchelor, wbatchelor@ycp.edu
+   Michael Feldman,   mfeldman1@ycp.edu
+   Le Quient Lewis,   llewis9@ycp.edu
+   Chase Traina,      ctraina@ycp.edu
+   
+   The Privileged Walk team status meetings, assignment presentations, and Milestone presentations will be given on Fridays from 3:00 to 4:15 in-person in KEC 123, also using Zoom so that Dr. Druen can attend the meetings.  Your regular team work sessions will on Wednesdays from 3:00 to 4:15 in KEC 118 and/or KEC 119.
+
+
+4) The Radio Telescope team has already started initial work for the Fall.  The project will be going into its final assembly and integration testing phase, and will coordinate with the RT Engineering Capstone team during CS482 in the Spring of 2022.  The Radio Telescope team members are:
+
+   Jack Anderson,     janderson7@ycp.edu
+   Anthony Beddia,    abeddia2@ycp.edu
+   Dylan Bieber,      dbieber@ycp.edu
+   Tyler Franks,      tfranks@ycp.edu
+   Brett Kearney,     bkearney1@ycp.edu
+   David McHugh,      dmchugh@ycp.edu
+   Daniel Palmieri,   dpalmieri@ycp.edu
+   Lucas Plaud Smith, lplaudsmith@ycp.edu
+   Jonathan Steck,    jsteck@ycp.edu
+   
+   The Radio Telescope team status meetings, assignment presentations, and Milestone presentations will be given on Wednesdays from 3:00 to 4:15 in-person in KEC 118 and/or the Project Workspaces.  Your regular team work sessions will on Fridays from 3:00 to 4:15 in KEC 118 and/or the Project Workspace.
+   
+I'm looking forward to working with all of you again, as well as to our initial meeting this coming Wednesday (8-25-21) at 3:00pm in KEC 118.
+
+Prof. Hake  
+
