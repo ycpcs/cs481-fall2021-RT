@@ -22,13 +22,15 @@ This is the website for CS 481-RT (Senior Software Design I), Fall 2021 for the 
 ## Project Ideas for This Year (Fall 2021 and Spring 2022)
 The following is a list of the various ideas for the project for this coming Fall 2021 and Spring 2022.  Todd Ullery and Kerry Smith of the YCAS will be providing additional requirements and setting priorities for the development over the course of this coming year.  It is your job to collect those requirements and priorities from them.  I might add a few items to investigate, as well.  You are not limited by this list - please also feel free to offer your own ideas for improving, enhancing, and/or expanding the capabilities of the Radio Telescope, while also allowing yourself to explore your own personal interests.  Ultiately, your YCAS clients will be determining your tasks and priorities (in consultation with me).
 
-NOTE: The primary focus of the coming year's effort is to finish SW development, expand unit/module testing, and then create and perform integration tests between the SW and the Radio Telescope HW.  You will be working directly with the electro-mechanical HW in the Project Workspace and will need to become quite comfortable with both its function and operation - expanding upon the work this past Summer's Engineering Capstone I team accomplished.  As such, it will greatly benefit you to (re)familiarize yourselves with the Radio Telescope HW as early in the semester as possible.  Several of the team memebers have already worked with it, and they will be helping to bring you all up-to-speed.
+NOTE: The primary focus of the coming year's effort is to finish SW development - focused primarilly on the ControlRoom Application (including RT simulation with the RT Unity model) and the Admin Phone App, expand unit/module testing, and then create and perform integration tests between the ControlRoom, the Admin Phone App, and the Radio Telescope HW.  You will be working directly with the electro-mechanical HW in the Project Workspace and will need to become quite comfortable with both its function and operation - expanding upon the work this past Summer's Engineering Capstone I team accomplished.  As such, it will greatly benefit you to (re)familiarize yourselves with the Radio Telescope HW as early in the semester as possible.  Several of the team memebers have already worked with it, and they will be helping to bring you all up-to-speed.
 
 ## YCAS Must-Haves (subject to change):
 
-* Determine the actual monthly AWS expenses that the YCAS will incur.  Last year's team significantly reduced the complexity and cost, but we will still need to determine the actual cost reductions, and concentrate on keeping them as low as reasonably possible.  We need to keep the monthly cost in the $20 to $40 range.
+* Finish the Admin Phone App and perform integration testing with the ControlRoom to interface with the Radio Telescope HW.
 
-* A review of the project's use of technology in order to consolidate, where possible, the multiple platforms used to create the product. I agree some cannot be changed, but let's review them anyway. This is a long-term software maintenance issue.  Consult with Todd Ullery on this, since he will ultimately be assuming responsibility for the Radio Telescope SW.
+* Finish the ControlRoom application, including SW simulation of the RT through the Unity model.  Also, develop and perform full integration testing between the ControlRoom App and the RT HW mount.  This must include both "Happy Path" and exception level testing.
+
+* Collect and charaterize the sensor data coming from the Embedded Sensor System (ESS) for normal vs abnormal operation.
 
 * While collecting data, add a service that watches the data being collected, looking for possible instances of Radio Frequency Interference (RFI) and capturing lightning or flight (flightaware.com) information to be used to help explain why anomolies in a particular signal occurred. What other sources of RFI can be researched?
 
@@ -37,6 +39,11 @@ NOTE: The primary focus of the coming year's effort is to finish SW development,
 * Verify the control room WiFi can relay the Admin Phone App commands directly to the RT controller - bypassing the AWS path.
 
 * Add an outdoor audio speaker to the control room allowing live or canned messages to be played automatically or via the Admin Phone App video screen. If Kerry sees someone climbing over the fence, he could give an audio warning by pressing a button. Another button (existing) can stow the telescope.  This work was started last year - we have the HW.
+
+* Determine the actual monthly AWS expenses that the YCAS will incur.  Last year's team significantly reduced the complexity and cost, but we will still need to determine the actual cost reductions, and concentrate on keeping them as low as reasonably possible.  We need to keep the monthly cost in the $20 to $40 range.
+
+* A review of the project's use of technology in order to consolidate, where possible, the multiple platforms used to create the product. I agree some cannot be changed, but let's review them anyway. This is a long-term software maintenance issue.  Consult with Todd Ullery on this, since he will ultimately be assuming responsibility for the Radio Telescope SW.
+
 
 ## YCAS Like-to-Have (subject to change):
 
