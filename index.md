@@ -65,7 +65,7 @@ NOTE: The primary focus of the coming year's effort is to finish SW development 
 
 * 9-24-21: Moved Assign05 (Minimum Working System) to Weds, 10-20-21.
 
-* 9-15-21: Moved Assign04 (Requirements) due date to Weds, 9-29-21.
+* 9-15-21: Moved Assign04 (Design) due date to Weds, 9-29-21.
 
 * 8-21-21: All students in CS 481 will be meeting on the first day of class (Weds, 8-25-21) to go over the syllabus and requirements for the course.  The Radio Telescope will have a longer meeting, since it is your regular meeting day.
 
