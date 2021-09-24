@@ -61,7 +61,7 @@ NOTE: The primary focus of the coming year's effort is to finish SW development 
 * The team needs to button-up the entire project this year, between Fall and Spring.  With 4 students returning to the project, we're in good shape for continuity's sake.  Spin-up last year in CS481 went well, but it still took a great deal of time to get everyone up-to-speed.  I expect this year to go even more quickly.
 
 ## News
-* 9-24-21: Moved Assign06 (50% Working System) to Wes, 11-10-21.
+* 9-24-21: Moved Assign06 (50% Working System) to Weds, 11-10-21.
 
 * 9-24-21: Moved Assign05 (Minimum Working System) to Weds, 10-20-21.
 
