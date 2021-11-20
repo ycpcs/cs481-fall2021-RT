@@ -14,4 +14,4 @@ This is the course schedule for CS 481-RT (YCAS Radio Telescope Project).
 [Assignment 4: Analysis and Design](assign/assign04.html)                  | Wed, Sep 29th by 3:00pm (prior to class): Presentation during class period
 [Assignment 5: Minimal Working System](assign/assign05.html)               | Wed, Oct 20th: Milestone 1 Presentation and Demo during class period<br>Sun, Oct 24th by Noon: Mid-Term Peer Evals due
 [Assignment 6: 50% Working System](assign/assign06.html)                   | Wed, Nov 10th: Milestone 2 Presentation and Demo during class period
-[Assignment 7: Final System Presentation and Report](assign/assign07.html) | Sat, Dec 4th by Noon: Draft Report due<br>Wed, Dec 8th, 3:00pm to 5:00pm (KEC 125): Final Milestone Presentation and Demo<br>Sat, Dec 11th by Noon: Final Report and Final Peer Evals due
+[Assignment 7: Final System Presentation and Report](assign/assign07.html) | Mon, Dec 6th by 7:00am: Draft Report due<br>Wed, Dec 8th, 3:00pm to 5:00pm (KEC 125): Final Milestone Presentation and Demo<br>Sat, Dec 11th by Noon: Final Report and Final Peer Evals due

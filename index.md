@@ -61,6 +61,8 @@ NOTE: The primary focus of the coming year's effort is to finish SW development 
 * The team needs to button-up the entire project this year, between Fall and Spring.  With 4 students returning to the project, we're in good shape for continuity's sake.  Spin-up last year in CS481 went well, but it still took a great deal of time to get everyone up-to-speed.  I expect this year to go even more quickly.
 
 ## News
+* 11-20-21: Moved the deadline for the Draft Tech Report to Mon, 12-6-21 by 7:00am
+
 * 11-18-21: Moved assign07 (Final Report and Peer Evals) to Sat, 12-11-21 by Noon
 
 * 11-18-21: Moved assign07 (Final Presentation) to Weds, 12-8-21, from 3:00p to 5:00p in KEC125.
